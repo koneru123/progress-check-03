@@ -1,0 +1,23 @@
+#colors {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%
+}
+
+#colors > div {
+  height: 100px;
+  width: 100px;
+}
+
+#times {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%
+}
+
+#times > div {
+  display: block
+}
